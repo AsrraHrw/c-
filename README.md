@@ -2,7 +2,7 @@
 
 
    My person's Chada Tach project has required my person to complete a coding skills test, even to “audition” for a role as a new software engineer at 
-   Chada Tech: namely, by applying program logic for creating two clocks that display simultaneously and allowing for user input using secure and 
+   Chada Tech: namely, by both applying program logic for creating two clocks that display simultaneously and allowing for user input using secure and 
    efficient C++ code.
 
 
